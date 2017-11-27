@@ -1,0 +1,162 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<meta charset="utf-8">
+	<title>hola</title>
+      <link rel="stylesheet" type="text/css" href="css/holacss.css">
+            <script src="js/holajs.js"></script>
+	<meta name="viewport" content="width=device-width,initial-scale=1">
+	<!--Import Google Icon Font-->
+      <link href="https://fonts.googleapis.com/icon?family=Material+Icons" rel="stylesheet">
+      <!--Import materialize.css-->
+      <link type="text/css" rel="stylesheet" href="css/materialize.min.css"  media="screen,projection"/>
+
+      <!--Let browser know website is optimized for mobile-->
+      <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+</head>
+<body>
+
+<div>
+  <!-- Dropdown Structure -->
+<ul id="dropdown1" class="dropdown-content">
+  <li><a href="quienesSomos.html">Quienes somos?</a></li>
+  <li><a href="calificacion.html">Calificacion de la pagina</a></li>
+  <li class="divider"></li>
+  <li><a href="ayuda.html">Ayuda</a></li>
+</ul>
+<nav>
+  <div class="nav-wrapper">
+    <a href="hola.html" class="brand-logo">Bienvenido</a>
+    <ul class="right hide-on-med-and-down">
+      <li><a href="Iniciar.html">Iniciar</a></li>
+      <li><a href="carrito.html">Carrito</a></li>
+      <!-- Dropdown Trigger -->
+      <li><a class="dropdown-button" href="#!" data-activates="dropdown1">Nosotros<i class="material-icons right">arrow_drop_down</i></a></li>
+    </ul>
+  </div>
+</nav>
+</div>
+<div class="Titulo">
+  <h1> <center> Dellacquas Shop </center> </h1>
+</div>
+<div class="Campodetexto1">
+  <center><input type="text" style="width:700px;height:35px"></center>
+</div>
+
+<div class="Boton1"> 
+  <a class="waves-effect waves-light btn">button</a>
+  </div>
+
+<div class="linea1">
+  <hr style="border-color:red;">
+</div>  
+
+<div class="celulares">	
+	<h1><center> Tablets </center></h1>
+</div>
+
+<div class="row">
+    <div class="col s12">
+      <ul class="tabs">
+        <li class="tab col s3"><a href="#test1">Samsung</a></li>
+        <li class="tab col s3"><a class="active" href="#test2">Sony</a></li>
+        <li class="tab col s3"><a href="#test3">Apple</a></li>
+        <li class="tab col s3"><a href="#test4">Google</a></li>
+      </ul>
+    </div>
+    <div id="test1" class="col s12">
+    <div class="col s12 m7">
+    <div class="card horizontal">
+      <div class="card-image">
+        <img src="imagenes/TabletSamsung.jpg">
+      </div>
+      <div class="card-stacked">
+        <div class="card-content">
+          <h1>Samsung</h1>
+          <p></p>
+        </div>
+        <div class="card-action">
+          <a href="carrito.html">Carrito</a>
+        </div> 
+      </div>
+    </div>
+  </div> 
+    
+
+
+    </div>
+    <div id="test2" class="col s12">
+      <div class="col s12 m7">
+    <div class="card horizontal">
+      <div class="card-image">
+        <img src="imagenes/TabletSony.jpg">
+      </div>
+      <div class="card-stacked">
+        <div class="card-content">
+          <h1>Sony</h1>
+          <p></p>
+        </div>
+        <div class="card-action">
+          <a href="carrito.html">Carrito</a>
+        </div> 
+      </div>
+    </div>
+  </div> 
+
+    </div>
+    <div id="test3" class="col s12">
+  <div class="col s12 m7">
+    <div class="card horizontal">
+      <div class="card-image">
+        <img src="imagenes/TabletApple.jpg">
+      </div>
+      <div class="card-stacked">
+        <div class="card-content">
+          <h1>Apple</h1>
+          <p></p>
+        </div>
+        <div class="card-action">
+          <a href="carrito.html">Carrito</a>
+        </div> 
+      </div>
+    </div>
+  </div>     
+    </div>
+    <div id="test4" class="col s12">
+      <div class="col s12 m7">
+    <div class="card horizontal">
+      <div class="card-image">
+        <img src="imagenes/TabletGoogle.png">
+      </div>
+      <div class="card-stacked">
+        <div class="card-content">
+          <h1>Google</h1>
+          <p></p>
+        </div>
+        <div class="card-action">
+          <a href="carrito.html">Carrito</a>
+        </div> 
+      </div>
+    </div>
+  </div> 
+    </div>
+  </div>
+
+
+
+
+
+
+
+<script type="text/javascript" src="https://code.jquery.com/jquery-3.2.1.min.js"></script>
+ <script type="text/javascript" src="js/materialize.min.js"></script>
+ <script type="text/javascript">
+ 	$(document).ready(function(){
+    $('ul.tabs').tabs();
+  });
+ 	$(document).ready(function(){
+    $('ul.tabs').tabs('select_tab', 'tab_id');
+  });
+ </script>
+</body>
+</html>
