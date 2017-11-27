@@ -8,7 +8,7 @@ Es la mejor pagina para comprar su producto tecnologico que busca. Esta pagina e
 * Tablets
 * Televisores
 * Accesorios
-* Desarrollador
+
 ## Desarrollador
 * Nombre: Mateo Dellacqua
 * Curso: 5 año C
