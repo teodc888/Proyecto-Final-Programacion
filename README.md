@@ -15,7 +15,4 @@ Es la mejor pagina para comprar su producto tecnologico que busca. Esta pagina e
 
 # Capturas
 
-![nombre de la imagen2][img2] 
 
-[img1]: /home/teodellacqua/Imágenes/gitP.png
-[img2]: /ruta/a/la/imagen2.jpg 
