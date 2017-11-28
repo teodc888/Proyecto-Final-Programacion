@@ -17,3 +17,9 @@ Es la mejor pagina para comprar su producto tecnologico que busca. Esta pagina e
 ## Capturas
 
 ![Texto alternativo](https://github.com/teodc888/Proyecto-Final-Programacion/blob/master/gitP.png)
+![Texto alternativo](https://github.com/teodc888/Proyecto-Final-Programacion/blob/master/gitC.png)
+![Texto alternativo](https://github.com/teodc888/Proyecto-Final-Programacion/blob/master/gitcelu.png)
+![Texto alternativo](https://github.com/teodc888/Proyecto-Final-Programacion/blob/master/gitTa.pnp)
+![Texto alternativo](https://github.com/teodc888/Proyecto-Final-Programacion/blob/master/gitTele.png)
+![Texto alternativo](https://github.com/teodc888/Proyecto-Final-Programacion/blob/master/gitAA.png)
+
